@@ -3,10 +3,9 @@ package com.test;
 public class HelloWorld {
 
 	/**
-	 * 
-	 * @param args
+	 * @param args Application entry point arguments
 	 */
 	public static void main(String[] args){
-		//TODO: implement main
+		System.out.println("Hello, world");
 	}
 }
